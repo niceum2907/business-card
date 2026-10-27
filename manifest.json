@@ -1,0 +1,12 @@
+{
+  "name": "Visitenkarte Umberto Mauch",
+  "short_name": "Visitenkarte",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f5",
+  "theme_color": "#24ace4",
+  "icons": [
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
